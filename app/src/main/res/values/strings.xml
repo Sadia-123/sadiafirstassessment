@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SadiaFirstAssessment</string>
+    <string name="hello_there_splash_screen">hello there splash screen</string>
+    <string name="welcome">Welcome!</string>
+</resources>
